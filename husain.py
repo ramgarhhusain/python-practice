@@ -1,1 +1,1 @@
-print("Husain weds tasneem")
+print("Husain loves tasneem")
